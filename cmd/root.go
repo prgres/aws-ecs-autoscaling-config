@@ -15,7 +15,7 @@ var (
 )
 
 var rootCmd = &cobra.Command{
-	Use: "aws-ecs-services-autoscaling-config",
+	Use: "aws-ecs-autoscaling-config",
 	Run: rootCmdFunc,
 }
 

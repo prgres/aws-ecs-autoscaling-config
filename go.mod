@@ -1,4 +1,4 @@
-module github.com/prgres/aws-ecs-services-autoscaling-config
+module github.com/prgres/aws-ecs-autoscaling-config
 
 go 1.17
 
